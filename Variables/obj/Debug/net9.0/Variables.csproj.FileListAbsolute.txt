@@ -1,0 +1,14 @@
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+C:\Learn C#\Variables\bin\Debug\net9.0\Variables.exe
+C:\Learn C#\Variables\bin\Debug\net9.0\Variables.deps.json
+C:\Learn C#\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+C:\Learn C#\Variables\bin\Debug\net9.0\Variables.dll
+C:\Learn C#\Variables\bin\Debug\net9.0\Variables.pdb
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.dll
+C:\Learn C#\Variables\obj\Debug\net9.0\refint\Variables.dll
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.pdb
+C:\Learn C#\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+C:\Learn C#\Variables\obj\Debug\net9.0\ref\Variables.dll
